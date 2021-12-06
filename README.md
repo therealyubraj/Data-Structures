@@ -9,10 +9,10 @@ A node class is created for a single node in the list which stores the data and 
 So, this is a doubly linked list.
 
 ### Methods
-size() -> returns the size of the linked list and takes no parameters.
-printLinkedList() -> prints all the contents of the linked list if they are printable using cout.
-insert(o, i) -> Insert a new "object" o at index i.
-deleteIndex(i) -> Removes the element ar index i from the linked list.
-get(i) -> returns the value at index i.
+**size()** -> returns the size of the linked list and takes no parameters.\
+**printLinkedList()** -> prints all the contents of the linked list if they are printable using cout.\
+**insert(o, i)** -> Insert a new "object" o at index i.\
+**deleteIndex(i)** -> Removes the element ar index i from the linked list.\
+**get(i)** -> returns the value at index i.\
 
-### Currently working on heaps.
+### Currently working on heaps.\
