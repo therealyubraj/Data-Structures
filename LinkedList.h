@@ -158,6 +158,11 @@ public:
 	//get Object from index i
 	Obj get(int i)
 	{
+		if (i > size() || i < 0)
+		{
+			throw IndexNotAvailableException();
+		}
+		
 		Node<Obj>* cur = head;
 		//Optimizie this as for insertion
 		for (int j = 0; j <= i; j++) {
