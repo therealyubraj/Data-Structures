@@ -15,4 +15,4 @@ So, this is a doubly linked list.
 **deleteIndex(i)** -> Removes the element ar index i from the linked list.\
 **get(i)** -> returns the value at index i.
 
-### Currently working on binary trees? ¯\_(ツ)_/¯
+### Currently working on binary trees? ¯\\_(ツ)_/¯
