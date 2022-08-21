@@ -5,8 +5,7 @@ Implementation of various Data Structures in C++.
 LinkedList<*type*> linkedListName;
 
 ### Implementation details
-A node class is created for a single node in the list which stores the data and two pointers to its previous and next elements. The first and the last elements are linked as well.
-So, this is a doubly linked list.
+A node class is created for a single node in the list which stores the data and two pointers to its previous and next elements. The first and the last elements are linked as well.This is doubly linked as elements have prev as well as next.
 
 ### Methods
 **size()** -> returns the size of the linked list and takes no parameters.\
